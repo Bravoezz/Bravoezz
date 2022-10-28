@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Spline,Java,MySql**
 
-- 💬 Ask me about **Html, Css, Js, Reactjs, Nodejs, Express, PostgreSQL**
+- 💬 Pregunteme sobre  **Html, Css, Js, Reactjs, Nodejs, Express, PostgreSQL**
 
-- 📫 How to reach me **bravoezz315@gmail.com**
+- 📫 Contac  **bravoezz315@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
