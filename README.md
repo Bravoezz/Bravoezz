@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spline,Java,MySql**
 
-- 💬 Ask me about **Html,Css,Js,Reactjs,Nodejs,Express,PostgreSQL**
+- 💬 Ask me about **Html, Css, Js, Reactjs, Nodejs, Express, PostgreSQL**
 
 - 📫 How to reach me **bravoezz315@gmail.com**
 
