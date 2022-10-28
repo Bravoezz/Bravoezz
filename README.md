@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Brayan Joel</h1>
-<h3 align="center">Soy apasionado por el front end development, de Peru - Lima</h3>
+<h3 align="center">Soy un React Developer y apasionado por el Front-End development , de Peru - Lima</h3>
 
 - 🌱 I’m currently learning **Spline,Java,MySql**
 
